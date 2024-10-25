@@ -17,6 +17,12 @@ This is my repository for the assessment for the Computer Infrastructure module.
 
 ## Get Started
 
+Python
+Visual Studio Code
+Jupyter Notebooks
+Git Hub
+GitHub Codespaces
+
 ## Get Help
 Please feel free to log any issues you spot on the Git repository page or to email me with any queries (my student email is included below).
 
