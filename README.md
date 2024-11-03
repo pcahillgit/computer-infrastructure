@@ -1,5 +1,7 @@
 # computer-infrastructure
 
+![UserInterface](https://en.wikipedia.org/wiki/Command-line_interface#/media/File:Gem_11_Desktop.png)
+
 ## About this Notebook
 This is my repository for the assessment for the Computer Infrastructure module.
 
