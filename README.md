@@ -1,11 +1,11 @@
-# computer-infrastructure
+# Computer Infrastructure
 
 ![UserInterface](https://upload.wikimedia.org/wikipedia/commons/6/6b/Gem_11_Desktop.png)
 
 ## About this Notebook
 This is my repository for the assessment for the Computer Infrastructure module.
 
-| Task | Title | Skill Shown |
+| Task | Title | Demonstrates |
 | :--  | :---: |  :---:  |
 | 1 | Create Directory Structure | Creating directories and subdirectories on the command line. |
 | 2 | Timestamps | Saving multiple dates and times as now.txt using the date command |
