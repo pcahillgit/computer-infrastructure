@@ -4,7 +4,7 @@ on:
   schedule:
     # Daily at 11AM
     - cron: '0 11 * * *'  # Choosing 11AM as Met Eireann began to block 10AM requests from GitHub Servers due to volume of requests.
-  workflow dispatch:  # Allows manual triggering of the workflow
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   run-weather:
@@ -35,4 +35,3 @@ jobs:
           git add .  # Add all modified files
           git commit -m "Automated weather data update" || echo "No changes to commit"  # Avoid failure if there are no changes
           git push origin main  # Push the changes to the main branch
-          
