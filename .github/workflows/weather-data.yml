@@ -6,6 +6,9 @@ on:
     - cron: '0 11 * * *'  # Choosing 11AM as Met Eireann began to block 10AM requests from GitHub Servers due to volume of requests.
   workflow_dispatch:  # Allows manual triggering of the workflow
 
+permissions:
+  contents: write
+
 jobs:
   run-weather:
     runs-on: ubuntu-latest
