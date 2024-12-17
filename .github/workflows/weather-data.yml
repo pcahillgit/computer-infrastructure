@@ -33,5 +33,5 @@ jobs:
       - name: Commit and Push New Data
         run: |
           git add .  # Add all modified files
-          git commit -m "Automated weather data update" || echo "No changes to commit"  # Avoid failure if there are no changes
-          git push origin main  # Push the changes to the main branch
+          git commit -m "Automated weather data update" || echo "No changes to commit" 
+          git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/pcahillgit/computer-infrastructure.git
