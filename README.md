@@ -15,7 +15,7 @@ This is my repository for the assessment for the Computer Infrastructure module.
 | 6 | Timestamp the Data | Modifying the  command from task 5 to save the downloaded file with a timestamped name in the format YYYYmmdd_HHMMSS.json . |
 | 7 | Write the Script | Writing a bash script called weather.sh which automates the process from task 6. |
 | 8 | Notebook | Recording brief descriptions of the commands used in each task and their role in completing the task. |
-| 9 | pandas | Using the pandas fucntion within my Juyter Notebook to load in one of the weather data files made via the script to examine and sumarize the data. |
+| 9 | pandas | Using the pandas fucntion within my Juyter Notebook to load in one of the weather data files made via the script to examine and sumarise the data. |
 
 ## Get Started
 I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) for the Notebook task which outlines my metodology and reasoning for each task. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
