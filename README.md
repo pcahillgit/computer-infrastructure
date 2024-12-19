@@ -20,7 +20,7 @@ This is my repository for the Computer Infrastructure module assessment. Each ta
 The project component of this module involved setting up a GitHub Actions workflow which runs once daily and executes the weather.sh script. This workflow is the weather-data YAML file in the .github/workflows folder.
 
 ## Get Started
-I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) for task 8 which outlines my metodology and reasoning for each task involved in the assessment. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
+I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) for task 8 which outlines my methodology and reasoning for each task involved in the assessment. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
 
 Much of the coding in this particular work was done via Visual Studio Code which runs in GitHub Codespaces (GitHubs cloud based development environment).
 
